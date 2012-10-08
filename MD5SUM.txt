@@ -1,0 +1,15 @@
+be431c309c54d72b1a4fbb66f77c6b30  ./heart.xpm
+89a2e406737fc5c683addeb4f9e8a60f  ./create.py
+2ebd5aec6a73748368e8e7b5f15e0c68  ./image_viewer.py
+0351b6a261b5e8737744df8070be7963  ./kiss.py
+181fc8d3154daace118388a2d3f066c6  ./heart.py
+9c4938f100169f275a6405496d5122d0  ./audio_player.py
+02fbd1fb5fffcbc4872b002b6ae4c0a1  ./simple_anim.py
+d2fc93f72caa8ea54a12cae66441f8b2  ./barchart.py
+ffb3b3d94f82d952f951af2723d423a8  ./simple_file_manager.py
+e6f2fbfb64b8c74a8bb5974afb2ec1b3  ./tips.txt
+e507b0f38dc53f8b316bc7839c572d02  ./heart-small.xpm
+c2ee9a2d3718b84ff0654e7b94add846  ./tips.py
+eb33c776e970d9f3272d74b3ab640cdc  ./extract.py
+41f4046f180ea763cdd844dc350d3651  ./synedit.py
+b7183ebb79400bff6451e08c3736fba3  ./face-kiss.png
